@@ -1,0 +1,15 @@
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\bin\Debug\Timer and Keyboard Movement and Events.exe.config
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\bin\Debug\Timer and Keyboard Movement and Events.exe
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\bin\Debug\Timer and Keyboard Movement and Events.pdb
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.csproj.AssemblyReference.cache
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\MainWindow.g.cs
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\App.g.cs
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events_MarkupCompile.cache
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events_MarkupCompile.lref
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\MainWindow.baml
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.g.resources
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer_and_Keyboard_Movement_and_Events.Properties.Resources.resources
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.csproj.GenerateResource.cache
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.csproj.CoreCompileInputs.cache
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.exe
+W:\#Code_Projects\C#\Timer and Keyboard Movement and Events\Timer and Keyboard Movement and Events\obj\Debug\Timer and Keyboard Movement and Events.pdb
